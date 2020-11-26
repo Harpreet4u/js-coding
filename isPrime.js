@@ -1,5 +1,7 @@
 "use strict";
 
+// complexity: O(sqrt(n))
+
 const isPrime = (num) => {
     
     if (num <= 1) {
