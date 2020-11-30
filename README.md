@@ -6,4 +6,7 @@ Javascript related stuff
 # Numbers
 
 - isPrime check
+- primeFactors printing
+- base 62 encoding
+- base 62 decoding
 
