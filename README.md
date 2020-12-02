@@ -17,4 +17,5 @@
 - [insertion sort](insertionSort.js)
 - [quicksort](quickSort.js)
 - [quick select (nth smallest number)](quickSelect.js)
+- [mergesort](mergeSort.js)
 
