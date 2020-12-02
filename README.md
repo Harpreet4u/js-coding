@@ -2,19 +2,19 @@
 
 ### Numbers
 
-- isPrime check
-- primeFactors printing
-- base 62 encoding
-- base 62 decoding
+- [isPrime check](isPrime.js)
+- [primeFactors printing](primeFactors.js)
+- [base 62 encoding](base62Encode.js)
+- [base 62 decoding](base62Decode.js)
 
 ### Recursion
 
-- recursiveFibonacci
-- tail recursive fibonacci
+- [recursiveFibonacci](recursiveFibo.js)
+- [tail recursive fibonacci](tailRecursionFibo.js)
 
 ### Sorting
 
-- insertion sort
-- quicksort
-- quick select (nth smallest number)
+- [insertion sort](insertionSort.js)
+- [quicksort](quickSort.js)
+- [quick select (nth smallest number)](quickSelect.js)
 
