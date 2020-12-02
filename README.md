@@ -6,6 +6,7 @@
 - [primeFactors printing](primeFactors.js)
 - [base 62 encoding](base62Encode.js)
 - [base 62 decoding](base62Decode.js)
+- [isInteger check](isInteger.js)
 
 ### Recursion
 
