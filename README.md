@@ -1,5 +1,9 @@
 ## Javascript Data Structures and Algorithms
 
+### JS cool stuff
+
+- [Object.is check](isObject.js)
+
 ### Numbers
 
 - [isPrime check](isPrime.js)
