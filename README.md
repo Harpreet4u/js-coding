@@ -28,3 +28,4 @@
 
 - [Bit Addition](bitAddition.js)
 - [Bit Substract](bitSubstraction.js)
+- [Bit Multiply](bitMultiply.js)
