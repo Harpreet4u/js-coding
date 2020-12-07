@@ -24,3 +24,6 @@
 - [quick select (nth smallest number)](quickSelect.js)
 - [mergesort](mergeSort.js)
 
+### Bit Manipulations
+
+- [Bit Addition](bitAddition.js)
