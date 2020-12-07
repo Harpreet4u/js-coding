@@ -30,3 +30,7 @@
 - [Bit Substract](bitSubstraction.js)
 - [Bit Multiply](bitMultiply.js)
 - [Bit simple division](bitDivision.js)
+
+### Trees
+
+- [BST preorder interative traversal](preOrderTraversal.js)
