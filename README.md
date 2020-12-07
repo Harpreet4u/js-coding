@@ -27,3 +27,4 @@
 ### Bit Manipulations
 
 - [Bit Addition](bitAddition.js)
+- [Bit Substract](bitSubstraction.js)
