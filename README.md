@@ -33,5 +33,6 @@
 
 ### Trees
 
-- [BST pre-order interative traversal](preOrderTraversal.js)
+- [BST pre-order inteative traversal](preOrderTraversal.js)
 - [BST in-order interative traversal](inOrderTraversal.js)
+- [BST post-order interative traversal](postOrderTraversal.js)
