@@ -1,5 +1,7 @@
 "use strict";
 
+// complexity O(n)
+
 class Node {
     constructor(value) {
         this.left = null;
