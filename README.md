@@ -37,3 +37,4 @@
 - [BST in-order interative traversal](inOrderTraversal.js)
 - [BST post-order interative traversal](postOrderTraversal.js)
 - [BST level-order traversal](levelOrderTraversal.js)
+- [AVL trees insert](avlInsert.js)
