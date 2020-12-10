@@ -39,3 +39,4 @@
 - [BST post-order interative traversal](postOrderTraversal.js)
 - [BST level-order traversal](levelOrderTraversal.js)
 - [AVL trees insert](avlInsert.js)
+- [LCA in BST](lcaBst.js)
