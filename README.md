@@ -40,3 +40,4 @@
 - [BST level-order traversal](levelOrderTraversal.js)
 - [AVL trees insert](avlInsert.js)
 - [LCA in BST](lcaBst.js)
+- [LCA in Binary Tree](lcaBt.js)
