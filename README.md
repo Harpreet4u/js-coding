@@ -41,3 +41,8 @@
 - [AVL trees insert](avlInsert.js)
 - [LCA in BST](lcaBst.js)
 - [LCA in Binary Tree](lcaBt.js)
+
+
+### Arrays
+
+- [Median](median.js)
