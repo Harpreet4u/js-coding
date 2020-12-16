@@ -46,3 +46,8 @@
 ### Arrays
 
 - [Median](median.js)
+
+
+### Strings
+
+- [kmp search](kmp.js)
