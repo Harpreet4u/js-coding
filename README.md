@@ -51,3 +51,4 @@
 ### Strings
 
 - [kmp search](kmp.js)
+- [Rabin Karp search](rk.js)
