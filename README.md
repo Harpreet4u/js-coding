@@ -55,3 +55,8 @@
 - [Rabin Karp search](rk.js)
 - [Z algorithm - z array](zArray.js)
 - [longest Panlindrome Substring Manachers Algo](manacher.js)
+
+
+### Linked List
+
+- [Singly linked list](singlyLinkedList.js)
